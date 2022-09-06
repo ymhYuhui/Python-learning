@@ -1,0 +1,2 @@
+set ws=wscript.createobject("wscript.shell")
+ws.run"D:\PythonLearnProject\Python-learning\rest_python.bat /start", 0
